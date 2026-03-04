@@ -3,4 +3,4 @@ project(cpp_learn)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cpp_learn input/main.cpp)
+add_executable(cpp_learn operators/main.cpp)
